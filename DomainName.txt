@@ -1,1 +1,3 @@
 AdamTrowbridge.me
+
+Namecheap's support is currently adding the domain manually for me (Due to MSU blocking their validation email), so at the moment, the page likely won't load.
